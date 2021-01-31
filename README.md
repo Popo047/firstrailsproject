@@ -1,4 +1,3 @@
 # Friends List
 
-Hello I am Popo and I am a student.
-Looking for a job.
+This is a Ruby on Rails starter project that I developed from scratch (via a tutorial)
